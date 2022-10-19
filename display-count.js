@@ -7,7 +7,7 @@
 </script>
 
 <p>
-	Visitors:
+	Site Visitors:
 	<span id='visits' />
 </p>
 </html>
