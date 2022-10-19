@@ -8,5 +8,5 @@ def lambda_handler(event, context):
             'Access-Control-Allow-Origin': 'https://www.example.com',
             'Access-Control-Allow-Methods': 'OPTIONS,POST,GET'
         },
-        'body': json.dumps('Hello from Lambda!')
+        'body': json.dumps(new_count)
     }
